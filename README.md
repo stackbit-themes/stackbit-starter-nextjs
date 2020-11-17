@@ -4,7 +4,7 @@ Starter is a flexible, multi-purpose Nextjs theme built for developers and ready
 
 [Live Demo](https://themes.stackbit.com/demos/starter/?demo=jststarternextjs)
 
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/stackbit-starter-nextjs?utm_source=github&utm_medium=referral&utm_campaign=custom_themes)
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/stackbit-starter-nextjs&utm_source=github&utm_medium=referral&utm_campaign=custom_themes)
 
 ![Stackbit Starter Nextjs Theme screenshot](https://themes.stackbit.com/images/starter-demo-1024x768.png)
 
@@ -28,6 +28,6 @@ Starter is a flexible, multi-purpose Nextjs theme built for developers and ready
 
 Use Stackbit to deploy this theme and connect a headless CMS. This theme contains a valid and tested `stackbit.yaml`
 
-[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/stackbit-starter-nextjs?utm_source=github&utm_medium=referral&utm_campaign=custom_themes)
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/stackbit-starter-nextjs&utm_source=github&utm_medium=referral&utm_campaign=custom_themes)
 
 
